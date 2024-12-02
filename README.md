@@ -15,8 +15,8 @@ This project aims to predict the outcome of IPL (Indian Premier League) matches 
    ```bash
    git clone https://github.com/jax1608/IPL_Prediction.git
 
-##Install dependencies:
+## Install dependencies:
 - pip install -r requirements.txt
 
-##Run the project:
+## Run the project:
 - python jaudu.py
